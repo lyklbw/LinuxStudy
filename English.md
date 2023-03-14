@@ -15,7 +15,7 @@
 | make a fuss  | 大惊小怪           |
 | token        | 象征               |
 | chronogical  | 时间顺序的         |
-|              |                    |
+| defective    | 有缺陷的            |
 |              |                    |
 |              |                    |
 |              |                    |
