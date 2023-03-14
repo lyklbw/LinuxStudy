@@ -124,7 +124,7 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 虽然Git告诉我们`readme.txt`被修改了，但如果能看看具体修改了什么内容，自然是很好的。比如你休假两周从国外回来，第一天上班时，已经记不清上次怎么修改的`readme.txt`，所以，需要用`git diff`这个命令看看
 
-#### `git diff`
+#### `git diff`  vscode下安装git lens 体验感更佳
 
 ```
 lyk@LYKdiandong:~/lbwnb/learngit$ git diff
