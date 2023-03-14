@@ -1,5 +1,27 @@
 # Git 的学习
+Git下载之后如何操作？（下载按照网上的教程来一般这个地方不会出错）
+首先理清楚逻辑，使用git当然想要使用到远程仓库这一个红利，所以首先是要配置SSH
 
+git config --global user.name "注册名"  （lyklbw，注意是github注册名）
+git config --global user.email "注册邮箱"
+ssh-keygen -t rsa -C "自己的邮箱"  （新设备需要这一步，如过已经有了就跳过此步）
+这是计算机便生成了密钥，终端会指示pub密钥的位置，我的电脑是在C:/user/15129/.ssh内部
+有一个地方有点傻逼，我的电脑点.pub文件无法访问，直接在终端用cd打开 （也不知道cat行不行）
+在这之后进入github网站设置新的SSH
+ssh -T git@github.com 检查是否成功
+
+之后选择自己的一个文件夹（注意不要仓库套仓库容易出现问题）
+git init
+之后跟着github的指导操作即可
+echo "# test" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin git@github.com:lyklbw/仓库名.git //核心步骤
+git push -u origin main
+ 
+开心 结束啦啦啦
 ## 题外：我的`github`！
 
 user name: lyklbw
