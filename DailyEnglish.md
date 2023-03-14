@@ -330,7 +330,7 @@ from a plane
 
 aerial attacks/photography
 
-### 一月十三号
+### 三月十三号
 
 **implication**
 
@@ -386,7 +386,58 @@ having a fault or faults; not perfect or complete
 
 Her hearing was found to be slightly defective 
 
+**三月十四日**
+
+**trivia**
+
+unimprotant matters,details,or information
+
+facts about many subjects that are used in a game to test people's knowlege
+
+trifle   (rifle步枪)
+
+**slightly**
+
+<u>She seemed a trifle anxious</u>
+
+something that is not valuable or important
+
+**vital**
+
+necessary or essential in order for sth to succeed or exist
+
+<u>the vitamins are vital for health</u>
+
+full of energy and enthusaism (just like dynamic)
+
+**rural vitalization**   乡村振兴
+
+**two sessions**  两会        	deputy    代表
 
 
 
+**dedicate**
 
+to give a lot of your time and efforts to a particular activity or purpose because thinking it is important
+
+<u>dedicate sth to ..</u>
+
+<u>He is quite dedicated to his stduy.</u>
+
+
+
+**Academy Award** 奥斯卡奖
+
+**vicinity**
+
+the area around a particular place
+
+<u>There is no hosipital in the immediate vicinity</u>
+
+**oyster**
+
+牡蛎
+
+If u say the world is someone's oyster ,you mean that they can do anything they want
+
+<u>You are young and you have got a lot of opportunity.The world is your oyster!</u>
