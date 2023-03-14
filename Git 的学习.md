@@ -148,6 +148,7 @@ index 46d49bf..9247db6 100644
 #### `git log`
 
 `git log`命令显示从最近到最远的提交日志，我们可以看到3次提交，最近的一次是`append GPL`，上一次是`add distributed`，最早的一次是`wrote a readme file`。
+英文状态下键入 q 退出 log 模式
 
 ```
 commit 7379d77a99e4aef9a588df37d0f86e0e713756ec (HEAD -> master)
