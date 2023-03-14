@@ -74,6 +74,16 @@ ps: gIt add . 中 `.` 表示全部文件
 
 之后更改`readme.txt`内容
 
+更改文件名称：（实例）
+
+```
+git mv test rename
+git commit -m rename 
+git push
+```
+
+
+
 #### `git status`
 
 ```
