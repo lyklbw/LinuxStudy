@@ -38,7 +38,8 @@
 
 C++环境需要 .vscode 文件夹下的 *c_cpp_properties.json,tasks.json,launch.json* 这三个文件共同定义。
 
-
+补充整体替换操作：
+ctrl shift +h
 
 
 
