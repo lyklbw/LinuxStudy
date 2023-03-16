@@ -441,3 +441,15 @@ the area around a particular place
 If u say the world is someone's oyster ,you mean that they can do anything they want
 
 <u>You are young and you have got a lot of opportunity.The world is your oyster!</u>
+
+### 三月十六日
+
+今日复习
+
+记录一下我的傻逼错误：
+
+disappearance 
+
+interactive 交互式的
+
+md累了明天补
