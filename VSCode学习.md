@@ -41,11 +41,110 @@ C++环境需要 .vscode 文件夹下的 *c_cpp_properties.json,tasks.json,launch
 补充整体替换操作：
 ctrl shift +h
 
+GCC
+
+.vscode内部有四类文件
+
+tasks.json 如果要实现多.cpp文件编译，修改args类中的$"{filename}"为"${workspaceFolder}\\*.cpp"
+
+launch.json 中的miDebuggerPath容易出问题...其实是自己bin前面只加了一个\
+
+c-cpp-properties.json 目前不知道具体作用
+
+如果这是要生成一个.exe文件，只需要taks.json就足够用了
+
+没啥时间了，简单记录一下：
+
+```
+/*	tasks.json	*/
+{
+	"version": "2.0.0",
+	"tasks": [
+		{
+			"type": "cppbuild",
+			"label": "C/C++: g++.exe 生成活动文件",
+			"command": "E:\\Loaddown\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe",
+			"args": [
+				"-fdiagnostics-color=always",
+				"-g",
+				"${workspaceFolder}\\*.cpp",
+				"-o",
+				"${fileDirname}\\${fileBasenameNoExtension}.exe"
+			],
+			"options": {
+				"cwd": "${workspaceFolder}"
+			},
+			"problemMatcher": [
+				"$gcc"
+			],
+			"group": {
+				"kind": "build",
+				"isDefault": true
+			},
+			"detail": "编译器: E:\\Loaddown\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\g++.exe"
+		}
+	]
+}
+```
+
+```
+/*	launch.json	*/
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [ {
+        "name": "g++.exe - Build and debug active file",
+        "type": "cppdbg",
+        "request": "launch",
+        "program": "${fileDirname}\\${fileBasenameNoExtension}.exe",
+        "args": [],
+        "stopAtEntry": false,
+        "cwd": "${fileDirname}",
+        "environment": [],
+        "externalConsole": false,
+        "MIMode": "gdb",
+        "miDebuggerPath": "E:\\\\Loaddown\\\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\\\mingw64\\bin\\\\gdb.exe",
+        "setupCommands": [
+            {
+                "description": "Enable pretty-printing for gdb",
+                "text": "-enable-pretty-printing",
+                "ignoreFailures": true
+            }
+        ],
+        "preLaunchTask": "C/C++: g++.exe 生成活动文件"
+    }]
+}
+```
 
 
 
-
-
+```
+/*	c_cpp_properties.json	*/
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "windowsSdkVersion": "10.0.22000.0",
+            "compilerPath": "E:\\Loaddown\\x86_64-8.1.0-release-posix-sjlj-rt_v6-rev0\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "linux-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}
+```
 
 
 
