@@ -456,23 +456,57 @@ md累了明天补
 
 ### 三月十七日
 
+**fall to bits**  be similar to / resemble  fall to pieces
 
+**fancy** 
 
+v. to want sth or want to do sth
 
+<u>Do you fancy going out this evening?</u>
 
+n.something that you imagine; your imagination
 
+<u>a child's wild flights of fancy</u> 
 
+a.expensive or connected with an expensive way of life
 
+<u>fancy restaurants with fancy prices</u>
 
+vice president 副主席
 
+**tenure**
 
+the period of time when sb holds an important job, especially a political one; the act of holding an important job
 
+<u>his four-year tenure as President</u>
 
+the right to stay permanently in your job, especially as a teacher at a university
 
+It's still extremely difficult to get tenure
 
+**bear the resemblance to sb in sth**
 
+This doesn't bear the slightest resemblance to anything in real life.
 
+**destiny**
 
+what happens to sb or what will happen to them in the future, especially things that they cannot change or avoid
 
+**<u>He wants to be in control of his own destiny.</u>**
 
+**root：archaeo or archeo** 
+
+indicating ancient or primitive (belonging to a [society](https://www.collinsdictionary.com/zh/dictionary/english/society) in which people [live](https://www.collinsdictionary.com/zh/dictionary/english/live) in a very [simple](https://www.collinsdictionary.com/zh/dictionary/english/simple) [way](https://www.collinsdictionary.com/zh/dictionary/english/way), usually without [industries](https://www.collinsdictionary.com/zh/dictionary/english/industry) ) time.
+
+archaeolofy 考古学
+
+archaeological 考古学的 etc
+
+**refute**
+
+to prove that sth is wrong
+
+**ivory tower**
+
+a place or a situation where you are separated from the problems and practical aspects of normal life and therefore do not have to worry about or understand them (normal  life）
 
