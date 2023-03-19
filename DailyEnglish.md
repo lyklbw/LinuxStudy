@@ -529,3 +529,11 @@ in or into every part of sth
 during the whole period of time of sth
 
 <u>The museum is open daily throughout the year.</u>
+
+**captivate**
+
+to keep sb's attention by being interesting, attractive, etc.
+
+<u>The children were captivated by her stories</u>
+
+The author's use of vivid imagery and descriptive language brought the story to life.
