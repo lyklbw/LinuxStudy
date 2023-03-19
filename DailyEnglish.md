@@ -510,3 +510,22 @@ to prove that sth is wrong
 
 a place or a situation where you are separated from the problems and practical aspects of normal life and therefore do not have to worry about or understand them (normal  life）
 
+### 三月19日
+
+ Core classes provide students with a diverse range of skills and knowledge that can be applied to a variety of situations throughout their lives.
+
+**well-rounded**
+
+many-sided
+
+an well-rounded curriculum
+
+**throughout**
+
+in or into every part of sth
+
+<u>They export their products to markets throughout the world</u>
+
+during the whole period of time of sth
+
+<u>The museum is open daily throughout the year.</u>
