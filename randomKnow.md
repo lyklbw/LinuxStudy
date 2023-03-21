@@ -17,3 +17,18 @@ IDE由以下部分组成：
 [磁盘操作系统](https://baike.baidu.com/item/磁盘操作系统/3793138?fromModule=lemma_inlink)（Disk Operating System）
 
 属于一种统称
+
+### 编译器报错
+
+```
+D:\C++代码\collect2.exe	[Error] ld returned 1 exit status
+```
+
+LD是DEV-C++的链接器，看来链接器报错，是找不到函数定义，所以报了错
+那么首先看有没有写错
+**1.检查print,scanf等自带函数是否写错**
+**2.检查调用函数时是否写错**
+**3.执行函数时，可能函数本身有问题**
+**4.马虎，上个exe程序没关**
+
+md浪费半个多小时
