@@ -537,3 +537,91 @@ to keep sb's attention by being interesting, attractive, etc.
 <u>The children were captivated by her stories</u>
 
 The author's use of vivid imagery and descriptive language brought the story to life.
+
+### 三月22日
+
+**endeavor**
+
+earnest and conscientious activity intended to do or accomplish something
+
+（两个生词都是认真的意思）
+
+<u>wish he good luck in his endeavor</u>
+
+attempt by employing effort
+
+<u>we endeavor to make our customers happy</u>
+
+**exclusive**
+
+only to be used by one particular person or group; only given to one particular person or group
+
+<u>The hotel owns an exclusive access to the beach,and only its customers have the exclusive rights to use it.</u>
+
+of a high quality and expensive and therefore not often bought or used by most people
+
+<u>exclusive designer clothes</u>
+
+**cubic meter**立方米
+
+ **square meter** 平方米
+
+
+
+**have guts to do sth**
+
+But I knew myself too well to think I would really have the guts to do i
+
+**ecstatic**		 **/ɪkˈstætɪk/**
+
+very happy, excited and enthusiastic; feeling or showing great enthusiasm
+
+like delighted
+
+<u>Sally was extremely ecstatic about her new job</u>
+
+**stumble across / stumble on**
+
+If you **stumble across** something or **stumble on** it, you find it or discover it unexpectedly.
+
+find sth by accident /unexpected
+
+**centenarian**	百岁老人
+
+**buffet**
+
+自助餐：a meal at which people serve themselves from a table and then stand or sit somewhere else to eat
+
+a buffet supper / lunch
+
+to knock or push sb/sth roughly from side to side
+
+<u>(figurative, formal) The nation had been buffeted by a wave of strikes.</u>
+
+**slam**
+
+to shut, or to make sth shut, with a lot of force, making a loud noise
+
+ <u>A window slammed shut in the wind</u>
+
+风吹得一扇窗户咣地关上了(好句子积累一下)
+
+**inning** 回合	**ears pierced** 穿耳洞	**go bowling**  保龄球
+
+**<u>niche</u>** 
+
+a comfortable or suitable role,job,or way of life
+
+<u>He eventually found his niche in sport **journalism**</u>
+
+an opportunity to sell a particular product to a particular group of people
+
+They <u>**spotted**</u> a niche in the market without serious competition
+
+**cluster**
+
+a group of things of the same type that grow or appear close together
+
+<u>a cluster of stars</u>
+
+<u>the plants bear their flowers in clusters</u>
