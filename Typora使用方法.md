@@ -123,10 +123,18 @@
 
   `<span style="color:文字颜色;background:背景颜色;font-size:文字大小;font-family:字体;">你要改色的文字</span>`	
 
+  简单版本：
+
+  ```
+  <font color='red'>红色</font>
+  ```
+  
+  <font color='red'>红色</font>
+  
   实例	
-
+  
   `<span style="color:blue;background:pink;">蓝色字体 </span>`					
-
+  
   <span style="color:blue;background:pink;">蓝色字体 </span>
   
   <span style="color :red;background:pink;">Jordan</span>
