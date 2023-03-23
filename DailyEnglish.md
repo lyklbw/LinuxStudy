@@ -625,3 +625,44 @@ a group of things of the same type that grow or appear close together
 <u>a cluster of stars</u>
 
 <u>the plants bear their flowers in clusters</u>
+
+
+
+### 三月23日
+
+**dense**
+
+containing a lot of people things, plants, etc with little space between them
+
+**rotate**
+
+to move or turn around a central fixed point; to make sth do this
+
+<u>Stay well away from the helicopter when its blades start to rotate.</u>
+
+**stroll**
+
+walk somewhere in a slow relaxed way
+
+<u>People were strolling along the beach.</u>
+
+**tune out**
+
+If u tune out , you stop listening or paying attention to what is being said
+
+**perk**
+
+something u receive as well as your wages for doing some particular job.
+
+**hw**
+
+ fully utilize their knowledge and skills and exploit their potential
+
+gain a sense of accomplishment 
+
+**illiteracy** 文盲
+
+**confine**
+
+to keep sb/sth inside the limits of a particular activity ,subject,area etc.
+
