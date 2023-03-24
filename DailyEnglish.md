@@ -498,7 +498,7 @@ what happens to sb or what will happen to them in the future, especially things 
 
 indicating ancient or primitive (belonging to a [society](https://www.collinsdictionary.com/zh/dictionary/english/society) in which people [live](https://www.collinsdictionary.com/zh/dictionary/english/live) in a very [simple](https://www.collinsdictionary.com/zh/dictionary/english/simple) [way](https://www.collinsdictionary.com/zh/dictionary/english/way), usually without [industries](https://www.collinsdictionary.com/zh/dictionary/english/industry) ) time.
 
-archaeolofy 考古学
+archaeology 考古学
 
 archaeological 考古学的 etc
 
@@ -666,3 +666,42 @@ gain a sense of accomplishment
 
 to keep sb/sth inside the limits of a particular activity ,subject,area etc.
 
+### 三月24日
+
+**Spring Solstice**春至
+
+**spring equinox** 春分
+
+appropriate~proper 适当的
+
+**indispensable**
+
+to important to be without
+
+<u>Cars have become an indispensable part of our lives.</u>
+
+surplus
+
+an amount that is extra or more than you need
+
+<u>Wheat was in surplus that year</u>
+
+**symbolize = stand for = represent**
+
+**utilize**
+
+to use sth, especially for a <u>**practical purpose**</u>
+
+<u>The Romans were the first to utilize concrete as a building material.</u>
+
+**exploit**
+
+to treat a person or situation as an opportunity to gain an advantage for yourself
+
+<u>She realized that her youth and inexperience were being exploited.</u>
+
+**hustle**
+
+to make sb move quickly by pushing them in a rough aggressive way.
+
+<u>He grabbed her arm and hustled her out of the room.</u>
