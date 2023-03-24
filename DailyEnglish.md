@@ -676,7 +676,7 @@ appropriate~proper 适当的
 
 **indispensable**
 
-to important to be without
+too important to be without
 
 <u>Cars have become an indispensable part of our lives.</u>
 
@@ -705,3 +705,102 @@ to treat a person or situation as an opportunity to gain an advantage for yourse
 to make sb move quickly by pushing them in a rough aggressive way.
 
 <u>He grabbed her arm and hustled her out of the room.</u>
+
+**superstition**
+
+**auspicious**
+
+He grabbed her arm and hustled her out of the room
+
+<u>an auspicious start to the new school year</u>
+
+**thorough**
+
+1.done completely; 
+
+<u>a thorough knowledge of the subject</u>
+
+2.with great attention to detail
+
+<u>She's very thorough and conscientious.</u>
+
+**couplet**
+
+two lines of poetry of equal length one after the other
+
+<u>red couplet with theme of health</u> (couplet <u>in red</u>)
+
+**envelope**
+
+<u>giving money in red envelope</u>
+
+**set off**
+
+When you **set off**, you start a journey
+
+<u>Nichols set off for his remote farmhouse.</u>
+
+If something **sets off** something such as an alarm or a bomb, it makes it start working so that, for example, the alarm rings or the bomb explodes.
+
+<u>set off firecrackers</u>
+
+| watch out |                                                      |
+| --------- | ---------------------------------------------------- |
+| extent    | how large,important,serious,etc.sth is(程度)         |
+|           | She was exaggerating the true extent of the problem. |
+| extend    | to make sth longer or larger                         |
+
+**delicacy of a compass **  (delicate 包括 脆弱的，（仪器的）精密的)
+
+**<u>keep the integrity</u> of head and tail** 
+
+
+
+<u>**stand for luck and richness respectively**</u>
+
+分别代表着好运与富贵
+
+**waggon**
+
+马车，货车车厢
+
+**hint**
+
+something that you say or do in an indirect way in order to show sb what you are thinking (暗示，提示)
+
+**perspective**
+
+a particular attitude towards sth; a way of thinking about sth
+
+**stipend**(wage)  /ˈstaɪpend
+
+an amount of money that is paid regularly to sb, especially a <u>**priest**</u>（牧师）, as wages or <u>money to live on</u>(维系生计的钱)
+
+**nomad ** 流浪者 
+
+**tramp** 流浪汉，妓女
+
+**iterative** 反复的
+
+<u>Quality improvement, like software development, is an iterative process.</u>
+
+**distributed**	分布的，分散的
+
+<u>If things are **distributed** throughout an area, object, or group, they exist throughout it.</u>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
