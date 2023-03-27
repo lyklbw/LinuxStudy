@@ -788,19 +788,77 @@ an amount of money that is paid regularly to sb, especially a <u>**priest**</u>�
 
 <u>If things are **distributed** throughout an area, object, or group, they exist throughout it.</u>
 
+### 三月28日
 
+**oath**
 
+a formal promise to do sth or a formal statement that sth is true
 
+**saddle**
 
+a leather seat for a rider on a horse
 
+**stature**
 
+the importance and respect that a person has because of their ability and achievements
 
+<u>The orchestra has grown in stature</u>
 
+a person's height
 
+<u>a woman of short stature</u>
 
+**shield**
 
+a large piece of metal or leather carried by soldiers in the past to protect the body when fighting
 
+<u>The gunman used the hostages as a human shield .</u>
 
+**meant to be **
+
+<u>Some people are just not meant to be in your life</u>
+
+**bribe -> bribery**
+
+**slouch**
+
+to stand, sit or move in a lazy way, often with your shoulders and head bent forward
+
+Sit up straight Don't slouch.
+
+**savage**
+
+aggressive and violent; causing great harm
+
+<u>She had been badly hurt in what police described as ‘a savage attack’.</u>
+
+an offensive word for sb who belongs to a people that is simple and not developed
+
+**tribe**
+
+ group of people of the same race, and with the same customs, language, religion, etc., living in a particular area and often led by a chief
+
+**horde**
+
+a large crowd of people
+
+**midst   recession->recede**
+
+<u>a country in the midst of a recession</u>
+
+(using after a preposition) the middle of sth
+
+<u>Such beauty was unexpected in the midst of the city.</u>
+
+**conspire**
+
+to secretly plan with other people to do sth illegal or harmful
+
+<u>They were accused of conspiring against the king</u>
+
+**gradient**  倾斜度 变化率
+
+the degree to which the ground slopes, especially on a road or railway
 
 
 
