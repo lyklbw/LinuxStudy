@@ -165,16 +165,16 @@
 
 ## 2.快捷方式
 
-| Ctrl+I       | *斜体文本*        |
-| ------------ | ----------------- |
-| Ctrl+B       | **粗体文本**      |
-| Ctrl+SHIFT+I | 插入图片(insert)  |
-| Ctrl+U       | 下划线(underline) |
-| Ctrl+H       | 全文替代          |
-| Ctrl+S       | 保存              |
-| Ctrl+Shift+S | 另存为            |
-| Ctrl+N       | 新建              |
-|              |                   |
-|              |                   |
+| Ctrl+I        | *斜体文本*        |
+| ------------- | ----------------- |
+| Ctrl+B        | **粗体文本**      |
+| Ctrl+SHIFT+I  | 插入图片(insert)  |
+| Ctrl+U        | 下划线(underline) |
+| Ctrl+H        | 全文替代          |
+| Ctrl+S        | 保存              |
+| Ctrl+Shift+S  | 另存为            |
+| Ctrl+N        | 新建              |
+| Shift+Ctrl +m | 数学公式          |
+|               |                   |
 
 to be continued
