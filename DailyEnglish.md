@@ -862,3 +862,71 @@ the degree to which the ground slopes, especially on a road or railway
 
 
 
+**buzzword** ：（ex: <u>the world is your oyster</u>)
+
+a word or phrase, especially one connected with a particular subject, that has become fashionable and popular and is used a lot in newspapers, etc.
+
+**Tibet**  西藏
+
+**ambiguous**  <u>like uncertain</u> 
+
+that can be understood in more than one way; having different meanings
+
+not clearly stated or defined
+
+**vague**
+
+not clear in a person's mind
+
+**boycott** (高中词汇呜呜呜)
+
+to refuse to buy, use or take part in sth <u>as a way of protesting</u>
+
+**icon**
+
+to refuse to buy, use or take part in sth as a way of protesting
+
+a famous person or thing that people admire and see as a symbol of a particular idea, way of life, etc.
+
+**disaster cluster**
+
+tornado  /  typhon  /  hurricane  龙卷风/ 台风 / 飓风
+
+hail         blizzard 		volcanic eruption  冰雹 /  暴风雪 / 火山喷发
+
+drought   	heat		flood		旱灾/ 高温 / 洪水
+
+
+
+**Meteorological**  气象的
+
+Meteorological means relating to meteorology.
+
+**casualty**
+
+a person who is killed or injured in war or in an accident
+
+<u>Both sides had suffered heavy casualties</u> 
+
+**alert** a.警觉的，戒备的   n. 警戒，警报
+
+able to think quickly; quick to notice things
+
+<u>Suddenly he found himself awake and fully alert.</u>
+
+**evacuate -> evacuation**
+
+to move people from a place of danger to a safer place
+
+<u>Children were evacuated from London to escape the bombing.</u>
+
+**legacy~inheritance**
+
+* money or property that is given to you by sb when they die
+
+* the money, property, etc. that you receive from sb when they die; the fact of receiving sth when sb dies
+
+**cable car**	缆车
+
+**like-minded**	志趣相投的
+
