@@ -354,7 +354,7 @@ The negotiation is still ongoing since no agreement has been reached
 
 a deliberately invalid argument displaying ingenuity in reasoning in the hope of deceiving someone
 
-invalid 	not legally or officially acceptable
+invalid 	not legally or officially acceptable  （	valid	）
 
 ingenuity 	the ability to invent things or solve problems in clever new ways
 
@@ -930,3 +930,86 @@ to move people from a place of danger to a safer place
 
 **like-minded**	志趣相投的
 
+### 三月31日
+
+**courtesy**	/ˈkɜːtəsi/
+
+polite behaviour that shows respect for other people
+
+<u>I was treated with the utmost(极大的) courtesy by the staff.</u>
+
+**cripple**
+
+a person who is unable to walk or move normally because of a disease or injury
+
+**rejoice**	/rɪˈdʒɔɪs/
+
+to express great happiness about sth
+
+<u> They rejoiced to see their son well again.</u>
+
+**squire**
+
+(in the past in England) a man of high social status who owned most of the land in a particular country area
+
+**despair 绝望(怎么老忘）**
+
+<u>**pivet when you deliver a stroke**</u>
+
+
+
+**horn**	喇叭
+
+**squeal**
+
+to make a long, high sound
+
+<u>The car squealed to a halt.</u>
+
+汽车嘎的一声停了下来。
+
+**industry** 工业 勤劳
+
+**sake **	缘故，目的
+
+for sb's sake
+
+<u>They stayed together for the sake of children</u>
+
+**presume**
+
+to suppose that sth is true, although you do not have actual proof
+
+**grub**
+
+to look for sth, especially by digging or by looking through or under other things
+
+<u>birds grubbing for worms</u> 
+
+**grip**
+
+an act of holding sb/sth tightly; a particular way of doing this
+
+Keep a tight grip on the rope
+
+**spite**
+
+a feeling of wanting to hurt or upset sb
+
+<u>I'm sure he only said it out of spite</u>
+
+**rebel**
+
+a person who fights against the government of their country
+
+<u>Armed rebels advanced towards the capital.</u>(向首都前进)
+
+**botch**
+
+to spoil sth by doing it badly
+
+<u>He completely botched up the interview.</u>
+
+a piece of work or a job that has been done badly
+
+<u>I've made a real botch of the decorating</u>
