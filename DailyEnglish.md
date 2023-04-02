@@ -1013,3 +1013,25 @@ to spoil sth by doing it badly
 a piece of work or a job that has been done badly
 
 <u>I've made a real botch of the decorating</u>
+
+### 四月2日
+
+**merchant**
+
+a person who buys and sells goods in large quantities, especially one who imports and exports goods
+
+**steward**	/ˈstjuːəd/
+
+a man whose job is to take care of passengers on a ship,an aircraft or a train  and who brings them meal ect
+
+a person employed to manage another person's property, especially a large house or land (g of t)
+
+**pledge**
+
+a serious promise
+
+<u>Will the government honour its election pledge not to raise taxes?</u>
+
+**rape**
+
+to force sb to have sex with you when they do not want to by threatening them or using violence
