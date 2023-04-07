@@ -1035,3 +1035,139 @@ a serious promise
 **rape**
 
 to force sb to have sex with you when they do not want to by threatening them or using violence
+
+### 四月7日
+
+**virus -> viral **	病毒
+
+**sled**	雪橇		**aisle**	/aɪl/	过道，货架
+
+<u>**protocol**</u>
+
+a system of fixed rules and formal behaviour use dat official meetings
+
+<u>a protocol of diplomatic visits</u>
+
+the first or original version of an agreement ,especially a **<u>treaty(条约)</u>**between countries .
+
+<u>the first Geneva Protocol</u>
+
+**decorous**
+
+polite and appropriate in a particular social situation; not shocking
+
+**袖手旁观**		**to look on with folded arms**
+
+**寄人篱下**		**to live under one's roof**
+
+**跳进黄河洗不清**		**nothing could bring back my innocence**
+
+**optimize**
+
+to make sth as good as it can be ; to use sth in the best possible way
+
+**<u>to optimize the use of resources</u>**
+
+**component**
+
+<u>the component of a machine</u>
+
+<u>the car component industry</u>
+
+**anecdote**	/ˈænɪkdəʊt/
+
+a short, interesting or amusing story about a real person or event
+
+a personal account of an event
+
+a personal account of an event
+
+**facility**
+
+buildings, services, equipment, etc. that are provided for a particular purpose
+
+<u>The hotel has special facilities for welcoming disabled people.</u>
+
+**tame**
+
+not afraid of people, and used to living with them
+
+<u>A **tame** animal or bird is one that is not afraid of humans.</u>
+
+**wield**
+
+to have and use power , authority etc
+
+<u>She wields enormous power within the party.</u>
+
+to hold sth, ready to use it as a weapon or tool
+
+<u>He was wielding a large knife.</u>
+
+**raven**	n.渡鸦	adj.乌黑的
+
+**consent**
+
+permission to do sth , especially given by sb in authority.
+
+<u>He is charged with taking a car without the owner's consent .</u>
+
+**frail**
+
+physically weak and thin
+
+<u>Mother was becoming too weak to live alone </u>
+
+weak; easily damaged or broken
+
+<u>the frail stems of the flowers</u>
+
+**trivial**
+
+not important or serious not worth considering
+
+<u>I know it sounds trivial , but I'm worried about it.</u>
+
+**affirm**
+
+to state firmly or publicly that sth is true or that you support sth strongly
+
+<u> Both sides affirmed their commitment to the ceasefire.</u>
+
+**<u>commit</u>**
+
+~ a crime
+
+<u>Most crimes are committed by young men</u>
+
+to promise sincerely that you will definitely do sth, keep to an agreement or arrangement, etc.
+
+<u>Borrowers should think carefully before committing themselves to taking out a loan.</u>
+
+<u>The President is committed to reforming health care</u>
+
+to give an opinion or make a decision openly so that it is then difficult to change it
+
+<u>You don't have to commit yourself now, just think about it.</u>
+
+**strive**
+
+to try very hard to achieve sth
+
+<u> We encourage all members to strive for the highest standards.</u>
+
+**proportiom**
+
+part of whole
+
+<u>Water covers a large proportion of the earth's surface</u>
+
+**lizard**	蜥蜴
+
+**sneer**
+
+to show that you have no respect for sb by the expression on your face or by the way you speak
+
+<u> He sneered at people who liked pop music</u>
+
+**伤口**	**gash 	slash 	wound**
