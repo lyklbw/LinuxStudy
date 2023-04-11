@@ -1171,3 +1171,40 @@ to show that you have no respect for sb by the expression on your face or by the
 <u> He sneered at people who liked pop music</u>
 
 **伤口**	**gash 	slash 	wound**
+
+### 四月11日
+
+**exposition**
+
+**产品博览会**
+
+a full explanation of a theory, plan, etc.
+
+<u>a clear and detailed exposition of their legal position</u>
+
+**duty-free**
+
+that you can bring into a country without paying tax on them
+
+**premium**
+
+an amount of money that you pay once or regularly for an insurance policy
+
+<u>a monthly premium of £6.25</u>
+
+very high (and higher than usual); of high quality
+
+<u>premium prices/products</u>
+
+**diminish**
+
+to become or to make sth become smaller weaker etc.
+
+<u>His influence has diminished with time.</u>
+
+
+
+
+
+
+
