@@ -1202,6 +1202,78 @@ to become or to make sth become smaller weaker etc.
 
 <u>His influence has diminished with time.</u>
 
+### 四月13日
+
+**etiquette**	/ˈetɪkət/
+
+the formal rules of correct or polite behaviour in society or among members of a particular prefession
+
+**slippery slope	**下坡路
+
+**instrusion** from **<u>intrude</u>**
+
+to go or be somewhere wher you are not wanted or supposed to be
+
+<u>I am srry to intrude,but I need to talk to someone</u>
+
+**<u>avoide use shortcuts and emoticons</u>**
+
+
+
+**pajama pants**	睡裤	(没时间捏)
+
+
+
+### 四月18日
+
+**gravitational pull**	地心引力
+
+**phenomenal**	/fəˈnɒmɪnl /
+
+very great and impressive
+
+<u>The product has been a phenomenal success</u>
+
+**wind up with ** =  **end up with**
+
+But sometimes you go looking for more, and **wind up with** less. 
+
+**funk**
+
+a state of fear or anxiety
+
+<u>If someone is **in a** **funk**, they are frightened, especially because they are in a situation they cannot control.</u>
+
+**on the verge of sth**/**doing**
+
+**touchdown**	达阵	**the sort of sth**
+
+**buzzer**
+
+an electrical device that produces a buzzing sound as a signal
+
+**formative years**	成长阶段
+
+**slide	**幻灯片
+
+to move easily over a smooth or wet surface; to make sth move in this way
+
+a small piece of film held in a frame that can be shown on a screen when you shine a light through it
+
+**cosmetic**
+
+a substance that you put on your face or body to make it more attractive
+
+<u>cosmetic surgery</u>	整形手术
+
+**spame** 午餐肉 垃圾邮件
+
+**rhetorical question ** 反问句
+
+
+
+
+
 
 
 
