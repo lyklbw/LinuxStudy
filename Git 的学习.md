@@ -20,8 +20,36 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin git@github.com:lyklbw/仓库名.git //核心步骤
 git push -u origin main
- 
+
 开心 结束啦啦啦
+
+四月19日更新：
+
+今天遇到问题
+
+```shell
+$ git push
+ssh: connect to host github.com port 22: Connection refused
+fatal: Could not read from remote repository.
+Please make sure you have the correct access rights
+and the repository exists.
+```
+
+可能是由于电脑的防火墙或者其他网络原因导致ssh连接方式 端口22被封锁
+
+解决方案，进入C:/user/15129/.ssh目录添加config文件，输入以下信息
+
+```shell
+Host github.com
+User email@qq.com
+Hostname ssh.github.com
+PreferredAuthentications publickey
+IdentityFile ~/.ssh/id_rsa
+Port 443
+```
+
+之后可以正常 git push
+
 ## 题外：我的`github`！
 
 user name: lyklbw
