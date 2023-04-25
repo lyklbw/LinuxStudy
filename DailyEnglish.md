@@ -1272,11 +1272,27 @@ a substance that you put on your face or body to make it more attractive
 
 
 
+### 四月23日
 
+**exquisite**
 
+extremely beautiful or carefully made
 
+**like-minded** 志趣相投
 
+**spatial**	空间的		era
 
+**distinctive perspective**
 
+**sea breezes**	
 
+**metro 地铁** 大城市才有地铁  **metropolitan 都市**
+
+convey=deliver 	stylish	get by in the world	emerald 
+
+**behavior art**	**sage of calligraphy**
+
+**illustration** 插画 图解
+
+**be it a good thing or bad**
 
