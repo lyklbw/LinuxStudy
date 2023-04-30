@@ -1172,6 +1172,10 @@ to show that you have no respect for sb by the expression on your face or by the
 
 **伤口**	**gash 	slash 	wound**
 
+**ashe** 灰烬
+
+<u>The towns was reduced to ashes in the fighting</u>
+
 ### 四月11日
 
 **exposition**
@@ -1214,11 +1218,11 @@ the formal rules of correct or polite behaviour in society or among members of a
 
 to go or be somewhere wher you are not wanted or supposed to be
 
-<u>I am srry to intrude,but I need to talk to someone</u>
+<u>I am sorry to intrude,but I need to talk to someone</u>
 
 **<u>avoide use shortcuts and emoticons</u>**
 
-
+避免使用快捷键和表情
 
 **pajama pants**	睡裤	(没时间捏)
 
@@ -1296,3 +1300,46 @@ convey=deliver 	stylish	get by in the world	emerald
 
 **be it a good thing or bad**
 
+
+
+### 四月30日
+
+**rope ladder**	绳梯
+
+**oak tree** 	橡树
+
+**tucked between**
+
+in term if **tuck**
+
+to push, fold or turn the ends or edges of clothes, paper, etc. so that they are held in place or look neat
+
+<u>The sheets should be tucked in neatly (= around the bed) .</u>
+
+**porch**
+
+a covered shelter projecting in front of the entrance of a building
+
+![60 Warm and Welcoming Front Porch Ideas](https://www.thespruce.com/thmb/2ahpFsPn9K17i0JnKWqcq1nCKC8=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/porch-ideas-4139852-hero-627511d6811e4b5f953b56d6a0854227.jpg)
+
+**obscene	**下流的
+
+connected with sex in a way that most people find offensive
+
+**unanimous**	/juˈnænɪməs/
+
+if a decision or an opinion is unanimous , it is agreed or shared by everyone in a group
+
+<u>a unanimous vote</u>
+
+**clause**
+
+**depict**
+
+represent by a drawing, painting, or other art form.
+
+<u>The novel depicts French society in the 1930s.</u>
+
+**pearl river**	珠海
+
+<u>civilian and military use	</u>	民用军用
