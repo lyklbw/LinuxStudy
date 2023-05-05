@@ -1342,4 +1342,124 @@ represent by a drawing, painting, or other art form.
 
 **pearl river**	珠海
 
-<u>civilian and military use	</u>	民用军用
+<u>civilian and military use</u>		民用军用
+
+
+
+### 五月4日
+
+**binary**
+
+using only 0 and 1 as a system of numbers
+
+**premium**		**critically**
+
+**superstition**	**superstitious**
+
+
+
+**refuge**
+
+shelter or protection from danger, trouble etc
+
+<u>A futher 300 people have taken refuge from the fighting</u>
+
+<u>We will achieve much more by persuasion than by **brute force**</u>
+
+**fury** -> **furious**
+
+**avenge**
+
+to punish or hurt sb in return for sth bad or wrong that they have done to you ,your family or friends etc.
+
+**ridge**	山脊；山脉
+
+a narrow area of high land along the top of a line of hills
+
+<u>walking along the ridge</u>
+
+<u>the north-east ridge of the Matterhorn</u>
+
+**sledge** 雪橇
+
+**turnip**萝卜
+
+**mitigate**
+
+to make sth less harmful, serious, etc.
+
+<u>Exercise to some degree could mitigate the psychological stress reactions</u>
+
+<u>action to mitigate poverty</u>
+
+<u>Soil erosion(腐蚀) was mitigated by the planting of trees.</u>
+
+**mow the lawn** 修草坪			**for the sake of you **
+
+**gown**	a woman's dress, especially a long one for special occasions
+
+**ivory tower**	象牙塔	**ivory **	象牙，象牙白
+
+**perilous**	very dangerous
+
+**adhere**	to stick firmly to sth
+
+<u>Once in the bloodstream, the bacteria adhere to the surface of the red cells.</u>
+
+**<u>adhere to sth</u>**
+
+**homage**	敬辞 敬意	**curriculum vitae /ˈviːtaɪ/	** 个人简介
+
+
+
+### 五月5日
+
+**fraud**	**deception**
+
+**anonymous**
+
+with a name that is not known or it is not made public
+
+<u>an anonymous donor</u>
+
+without any unusual or interesting features
+
+just like dull
+
+| similiar words                      |                      |
+| ----------------------------------- | -------------------- |
+| aqua**naut**      潜水<u>**员**</u> | asttonaut    宇航员  |
+| resemble       相似                 | assemble   集合 收集 |
+| fraction     分数，小部分           | frictiom 摩擦        |
+
+**cutting-edge** 	先进的
+
+**italic** 斜体	**bolt** 粗体
+
+**Aerial**	航空	**marine**   海洋的
+
+**永久的**
+
+**eternal 	permanent	perpetual**
+
+
+
+**submarine**	潜艇
+
+**superfical**
+
+not studying or looking at sth thoroughly; seeing only what is obvious
+
+<u>a superficial analysis</u>
+
+<u>The book shows only a superficial understanding of the historical context.</u>
+
+**reference**
+
+参考 推荐人（有点像担保人）
+
+**confidential**
+
+meant to be kept secret and not told to or shared with other people
+
+<u>confidential information/documents</u>
