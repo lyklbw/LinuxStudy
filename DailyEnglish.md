@@ -1463,3 +1463,45 @@ not studying or looking at sth thoroughly; seeing only what is obvious
 meant to be kept secret and not told to or shared with other people
 
 <u>confidential information/documents</u>
+
+**<u>i only meant i did as i was bid</u>**	我只是按照命令行事
+
+from today‘s harry
+
+**incantation**
+
+An **incantation** is a series of words that a person says or sings as a magic spell.
+
+<u>strange prayers and incantations.</u>
+
+**levitation**	 悬浮  悬浮咒
+
+**rudimentary**
+
+dealing with only the most basic matters or ideas
+
+<u>dealing with only the most basic matters or ideas</u>
+
+**swish and flick**
+
+**enunciate**
+
+to say or pronouce words clearly
+
+She enunciate each words to make sure heard.
+
+**off you go**	开始吧， 你走吧
+
+
+
+**merchant of  spice **	香料商人
+
+**Henceforth**	from now on
+
+**cargo**	货物
+
+**怀疑的**
+
+**doubtful	 skeptical     sceptical    suspicious**
+
+sceptical	/ˈskeptɪkl/
