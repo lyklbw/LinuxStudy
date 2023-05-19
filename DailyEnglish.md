@@ -1428,7 +1428,7 @@ just like dull
 
 | similiar words                      |                      |
 | ----------------------------------- | -------------------- |
-| aqua**naut**      潜水<u>**员**</u> | asttonaut    宇航员  |
+| aqua**naut**      潜水<u>**员**</u> | astronaut    宇航员  |
 | resemble       相似                 | assemble   集合 收集 |
 | fraction     分数，小部分           | frictiom 摩擦        |
 
@@ -1505,3 +1505,219 @@ She enunciate each words to make sure heard.
 **doubtful	 skeptical     sceptical    suspicious**
 
 sceptical	/ˈskeptɪkl/
+
+
+
+### 五月18日
+
+**discard**
+
+to get rid of sth you <u>no longer want or need</u>
+
+<u>The room was littered with discarded newspapers</u>
+
+**eliminate**
+
+to move or get rid of sth
+
+<u>Credit cards eliminate the need to carry a lot of cash</u>
+
+**hostile hostility**
+
+very unfriendly or aggressive and ready to argue or fight
+
+<u>She was openly hostile towards her parents</u>
+
+**nap**	打盹
+
+**privilege**	It is my great privileged to
+
+**sooner rather than later**	趁早
+
+
+
+**siege**	
+
+a military operation in which an army tries to capture a town by surrounding it and stopping the supply of food, etc. to the people inside
+
+**troop**	军队
+
+**treason**	背叛	**rebel**
+
+
+
+**reckon**
+
+to think sth or have an opinion about sth
+
+<u>I reckon (that) I'm going to get that job.</u>
+
+to calculate an amount, a number, etc.
+
+<u> They reckon (that) their profits are down by at least 20%.</u>
+
+
+
+**scent**		spice
+
+the pleasant smell that sth has
+
+<u>The air was filled with the scent of wild flowers.</u>
+
+**lad**
+
+a boy or young man
+
+**legacy	inheritance   heritage**
+
+**blush**
+
+to become red in the face because you are embarrassed or ashamed
+
+<u>She blushed furiously at the memory of the conversation</u>
+
+她一想起那次谈话就气得满脸通红
+
+**misery   affliction**	痛苦
+
+great suffering of the mind or body
+
+**hazard**
+
+a thing that can be dangerous or cause damage
+
+<u>a fire/safety hazard</u> 火灾隐患
+
+**inquisitive** 爱钻研的 但也可以用来形容过分好奇（贬）
+
+asking too many questions and trying to find out about what other people are doing, etc.
+
+very interested in learning about many different things
+
+**episode	**插曲，电视剧的一集
+
+
+
+**fraction**	小部分，少量	**proportion**	部分，份额，比例
+
+**descent** n.下降，坡道，祖籍
+
+**epic**	史诗
+
+
+
+**splash **
+
+to fall noisily onto a surface
+
+<u>Rain splashed against the windows.</u>
+
+to make sb/sth wet by making water, mud, etc. fall on them/it
+
+<u>He splashed cold water on his face.</u>
+
+
+
+**spill**	溢出，洒出
+
+<u> Water had spilled out of the bucket onto the floor.</u>
+
+**obsidian**	黑曜石
+
+
+
+### 五月19日
+
+**flashback**	倒叙
+
+**immaculate**
+
+extremely clean and tidy
+
+containing no mistakes		like perfect
+
+
+
+**analogy**	比喻，比拟
+
+a comparison of one thing with another thing that has similar features; a feature that is similar
+
+<u>The teacher drew an analogy between the human heart and a pump.</u>
+
+**hilarious**
+
+extremely funny
+
+**out of nowhere**	突然出现，不知从哪里来的
+
+It just hit me out of nowhere.
+
+
+
+**show of your hand**	举起手来
+
+**comply**
+
+to obey a rule, an order, etc.
+
+<u>They refused to comply with the UN resolution</u>
+
+**paramount**
+
+more important than anything
+
+<u>The matter is of paramount importance.</u>
+
+**hurdle** 跨栏
+
+**staple**	主食  主要的，基本的
+
+forming a basic, large or important part of sth
+
+<u>The staple crop is rice.</u>
+
+| pension 退休金，养老金 | premium       保险费 |
+| ---------------------- | -------------------- |
+
+**anonymous**	匿名的
+
+
+
+**adverse**
+
+negative and unpleasant; not likely to produce a good result.
+
+<u>It is a n adverse verdict</u>
+
+**auction**	拍卖	auction off
+
+**combat** n/v 战斗
+
+fighting or a fight, especially during a time of war
+
+<u>combat troops	作战部队</u>
+
+<u>combat boots	军靴</u>
+
+
+
+**ratio**	/ˈreɪʃiəʊ/	比例   	**proportion**
+
+
+
+**diagnose	**诊断(疾病);判断(问题的原因)
+
+to say exactly what an illness or the cause of a problem is
+
+<u>The test is used to diagnose a variety of diseases</u>
+
+
+
+
+
+
+
+
+
+
+
