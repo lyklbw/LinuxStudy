@@ -1750,3 +1750,47 @@ warm and damp
 **feedback**	反馈，反馈的意见
 
 advice, criticism or information about how good or useful sth or sb's work is
+
+
+
+### 五月24日
+
+**discourse	**论文;演讲;
+
+a long and serious treatment or discussion of a subject in speech or writing.
+
+| immense 巨大的 | immune       免疫的 |
+| -------------- | ------------------- |
+
+
+
+**innate	**		与生俱来的;天生的;
+
+that you have when you are born
+
+<u>the innate ability to learn</u>
+
+**inhibit**
+
+to prevent sth from happening or make it happen more slowly  or less frequently than normal.
+
+<u>A lack of oxygen may inhibit brain development in the unborn child.</u>
+
+**foster	**促进;助长;培养
+
+to encourage sth to develop
+
+<u>The club's aim is to foster better relations within the community.</u>
+
+**a version of **
+
+
+
+**ironic**	/aɪˈrɒnɪk/
+
+讽刺的
+
+showing that you really mean the opposite of what you are saying; expressing
+
+
+
