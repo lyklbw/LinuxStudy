@@ -1713,11 +1713,40 @@ to say exactly what an illness or the cause of a problem is
 
 
 
+### 
+
+### 五月23日
+
+**epidemic**
+
+a large number of cases of a particular disease happening at the same time in a particular community
+
+**blend**
+
+to mix two or more substances together
+
+<u>Blend the flour with the milk to make a smooth paste.</u>把面粉和牛奶调成均匀的面糊。
+
+**stunning**
+
+extremely attarctive or impressive
+
+**councel	**劝告，忠告，建议
+
+advice,especially given by older people or experts
+
+**humidity**
+
+the amount of water in the air
+
+**humid**
+
+warm and damp
 
 
 
+**parachute**	**降落伞**
 
+**feedback**	反馈，反馈的意见
 
-
-
-
+advice, criticism or information about how good or useful sth or sb's work is
