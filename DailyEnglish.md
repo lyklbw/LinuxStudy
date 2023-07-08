@@ -388,7 +388,7 @@ Her hearing was found to be slightly defective
 
 **三月十四日**
 
-**trivia**
+**trivial**
 
 unimprotant matters,details,or information
 
@@ -1791,6 +1791,64 @@ to encourage sth to develop
 讽刺的
 
 showing that you really mean the opposite of what you are saying; expressing
+
+**glamorous**
+
+especially attractive and exciting , and different from ordinary things or people
+
+<u>glamorous movie star</u>
+
+**recipient**
+
+a person who recieves sth
+
+**nominate for**	提名
+
+**confer**
+
+to discuss sth with sb, in order to exchange opinions or get advice
+
+to give sb an award, a university degree or a particular honour or right
+
+<u>An honorary degree was conferred on him by Oxford University in 2001.</u>
+
+
+
+**technique**
+
+**differentiate**
+
+
+
+**concise**	简明的;简练的;
+
+giving only the information that is necessary and important, using few words
+
+**gear up..**	为...做准备
+
+**compact**
+
+smaller than is usual for things of the same kind	协定;协议;
+
+<u>a compact camera</u>
+
+closely and firmly packed together	紧凑的;紧密的;
+
+a formal agreement between two or more people or countries	协定;协议;
+
+
+
+**supplement**	v. 补充 n.添加物		**be supplemented with**
+
+**sensational**
+
+causing great surprise, excitement, or interest
+
+
+
+
+
+
 
 
 
